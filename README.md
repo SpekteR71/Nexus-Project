@@ -1,5 +1,5 @@
 # Nexus-Project
-Breast Cancer Prognosis prediction based on a patient's clinical and genomic data. Machine Learning algorithms such as KNN, RF, SVM, LR were used in this project.
+Breast Cancer Prognosis prediction based on a patient's clinical and genomic data. Machine Learning algorithms such as KNN, RF, DT, LR were used in this project.
 A thorough data preprocessing and analysis was also done before training the models.
 
 Here is a comparison between the algorithms.
